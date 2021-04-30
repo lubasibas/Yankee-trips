@@ -9,6 +9,10 @@ body {
   opacity: 0.8;
 }
 
+.main-div .nav-link{
+  color: white;
+}
+
 div {
   opacity: 0.8;
 }
