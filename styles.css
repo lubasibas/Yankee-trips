@@ -1,0 +1,10 @@
+.container {
+    background-image: url(america.jpeg);
+   
+    background-repeat:no-repeat;
+    width: 100% !important;
+    height: 100% !important;
+    background-size:cover;
+ 
+}   
+
