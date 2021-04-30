@@ -4,4 +4,8 @@ body {
   background-size: cover
 }
 
+.main-div{
+  background-color: white;
+  opacity: 0.8;
+}
 
