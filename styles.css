@@ -13,7 +13,15 @@ body {
   color: white;
 }
 
+.main-div .highlight{
+  color: yellow !important;
+}
+
 div {
   opacity: 0.8;
 }
 
+.location_pic{
+  height: 200px !important;
+  width: 200px;
+}
