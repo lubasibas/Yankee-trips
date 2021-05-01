@@ -17,8 +17,8 @@ body {
   color: yellow !important;
 }
 
-div {
-  opacity: 0.8;
+.izu {
+  opacity: 0.4 !important;
 }
 
 .location_pic{
