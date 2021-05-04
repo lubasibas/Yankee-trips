@@ -1,7 +1,8 @@
 
 body {
   background-image: url(americo.jpg);
-  background-size: cover
+  background-size: cover;
+  padding: 30px
 }
 
 .main-div{
@@ -79,9 +80,9 @@ body {
 }
 
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: #ddd !important;
 }
 
 .dropdown:hover .dropdown-content {
-  display: block;
+  display: block !important;
 }
